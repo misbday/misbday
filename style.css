@@ -2,23 +2,6 @@ img {
     width: 100%;
       height: auto;
 }
-
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  overflow-x: hidden; 
-}
-
-.banner {
-  width: 100%;
-  display: block; 
-  margin: 0;
-}
    
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap');
 
@@ -27,11 +10,6 @@ h1 {
     font-size: 4em;
     font-family: "Playfair Display", serif;
     color: #ff58d2;
-}
-h2 {
-    text-align: center;
-    font-size: 2em;
-    font-family: optima, palatino, georgia;
 }
 
 p {
@@ -45,13 +23,6 @@ p {
   color: rgba(255, 0, 0, 0.5); 
   background-color: babypink;
 
-}
-.flex-container {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 .space-evenly { 
@@ -110,6 +81,3 @@ p {
   animation: fadeIn 1s ease-in;
 }
 
-margin: 10px;               /* all sides */
-margin: 10px 20px;          /* top/bottom left/right */
-margin: 10px 20px 30px 40px; /* top right bottom left */

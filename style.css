@@ -29,3 +29,39 @@ p {
   background-color: babypink;
 
 }
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-evenly { 
+    justify-content: space-evenly; 
+}
+
+.flex-item {
+    padding: 5px;
+    width: auto;
+    height: auto;
+    margin: 5px;
+    line-height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.30em;
+    text-align: center;
+    border: #000000 solid;
+    text-decoration: none;
+  }
+
+.flex-container a{
+    color: white; 
+    text-decoration: none;
+}
+
+.flex-container a:hover{
+    background: #A3A8FC;
+    color: white; 
+    text-decoration: none;
+}

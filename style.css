@@ -83,7 +83,18 @@ p {
     color: #ff58d2; 
     text-decoration: none;
 }
-
+.english { 
+    background-color : ##FBBCEB; 
+}
+.french { 
+    background-color : ##FBBCEB; 
+}
+.german { 
+    background-color : ##FBBCEB; 
+}
+.dutch { 
+    background-color : ##FBBCEB; 
+}    
 .el {
   transition: all 0.3s ease-in-out;
 }

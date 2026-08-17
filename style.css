@@ -70,6 +70,7 @@ p {
     text-align: center;
     border: #ffc5f0 solid;
     text-decoration: none;
+    border-radius: 15px
   }
 
 .flex-container a{

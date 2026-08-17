@@ -19,3 +19,11 @@ p {
     font-size: 1em;
     font-family: garamond, times new roman;
 }
+
+.el {
+  color: #ffc5f0;             
+  color: rgb(255, 0, 0);
+  color: rgba(255, 0, 0, 0.5); 
+  background-color: babypink;
+
+}

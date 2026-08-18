@@ -2,19 +2,18 @@ img {
     width: 100%;
       height: auto;
 }
-   
-    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap');
+
 
 h1 {
     text-align: center;
     font-size: 4em;
-    font-family: "Playfair Display", serif;
+    font-family: Consolas;
     color: #ff58d2;
 }
 
 p {
     font-size: 1em;
-    font-family: garamond, times new roman;
+    font-family: Consolas;
 }
 
 .el {
